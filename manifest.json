@@ -1,0 +1,73 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Adds 10 customizable hotbar selectors. by kazuma13",
+        "name": "Hotbar Selector+",
+        "uuid": "85765ae6-fb98-4d20-8a9f-6373c62f8211",
+        "version": [1, 0, 0],
+        "min_engine_version": [ 1, 21, 100 ]
+    },
+    "modules": [
+        {
+            "description": "Adds 10 customizable hotbar selectors. by kazuma13",
+            "type": "resources",
+            "uuid": "cc091163-5cb0-4056-a819-626b40822f70",
+            "version": [1, 0, 0]
+        }
+    ],
+    "subpacks": [
+        {
+            "folder_name": "red",
+            "name": "§cred",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "yellow",
+            "name": "§eyellow",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "green",
+            "name": "§agreen",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "purple",
+            "name": "§5purple",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "blue",
+            "name": "§9blue",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "beige",
+            "name": "§hbeige",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "black",
+            "name": "§8black",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "pink",
+            "name": "§dpink",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "orange",
+            "name": "§6orange",
+            "memory_tier": 1
+        },
+        {
+            "folder_name": "light_blue",
+            "name": "§blight_blue",
+            "memory_tier": 1
+        }
+    ],
+    "capabilities": [
+        "pbr"
+    ]
+}
